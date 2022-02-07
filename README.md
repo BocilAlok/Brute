@@ -38,5 +38,5 @@ $ termux-setup-storage
 $ git clone https://github.com/ROY-ID/roy-brute
 $ cd roy-brute
 $ git pull
-$ python roybrute.cpython-310.so
+$ python run.py
 ````
