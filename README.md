@@ -19,13 +19,14 @@ Cookies FB (Akun Tumbal Awet)
 ````php
 Method b-api
 Method mbasic
-Method mfacebook (Disarankan : Hasil OK)
+Method mfacebook (Disarankan)
 ````
 # Sandi Otomoatis
 ````php
 nama
 nama123
 nama12345
+sayang
 ````
 # Perintah Menjalankan SC
 ````php
