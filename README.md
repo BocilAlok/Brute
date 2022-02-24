@@ -17,9 +17,9 @@ Cookies FB (Akun Tumbal Awet)
 ````
 # Metode Crack
 ````php
-Method b-api
+Method free
 Method mbasic
-Method mfacebook (Disarankan)
+Method mfacebook
 ````
 # Sandi Otomoatis
 ````php
