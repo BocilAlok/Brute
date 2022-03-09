@@ -26,7 +26,7 @@ Method mfacebook
 nama
 nama123
 nama12345
-sayang
+
 ````
 # Perintah Menjalankan SC
 ````php
